@@ -1,0 +1,118 @@
+E:\OOP\Login\bin\Debug\Login.exe.config
+E:\OOP\Login\bin\Debug\Login.exe
+E:\OOP\Login\bin\Debug\Login.pdb
+E:\OOP\Login\bin\Debug\Bunifu.UI.WinForms.xml
+E:\OOP\Login\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\OOP\Login\bin\Debug\Microsoft.Win32.Registry.xml
+E:\OOP\Login\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\OOP\Login\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\OOP\Login\bin\Debug\Newtonsoft.Json.xml
+E:\OOP\Login\bin\Debug\RestSharp.xml
+E:\OOP\Login\bin\Debug\System.Buffers.xml
+E:\OOP\Login\bin\Debug\System.CodeDom.xml
+E:\OOP\Login\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\OOP\Login\bin\Debug\System.Data.Odbc.xml
+E:\OOP\Login\bin\Debug\System.Data.OleDb.xml
+E:\OOP\Login\bin\Debug\System.Data.SqlClient.xml
+E:\OOP\Login\bin\Debug\System.Diagnostics.EventLog.xml
+E:\OOP\Login\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\OOP\Login\bin\Debug\System.Drawing.Common.xml
+E:\OOP\Login\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\OOP\Login\bin\Debug\System.IO.Packaging.xml
+E:\OOP\Login\bin\Debug\System.IO.Ports.xml
+E:\OOP\Login\bin\Debug\System.Memory.xml
+E:\OOP\Login\bin\Debug\System.Numerics.Vectors.xml
+E:\OOP\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\OOP\Login\bin\Debug\System.Security.AccessControl.xml
+E:\OOP\Login\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\OOP\Login\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\OOP\Login\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\OOP\Login\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\OOP\Login\bin\Debug\System.Security.Permissions.xml
+E:\OOP\Login\bin\Debug\System.Security.Principal.Windows.xml
+E:\OOP\Login\bin\Debug\System.ServiceModel.Syndication.xml
+E:\OOP\Login\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\OOP\Login\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\OOP\Login\bin\Debug\System.Threading.AccessControl.xml
+E:\OOP\Login\obj\Debug\Login.Properties.Resources.resources
+E:\OOP\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\OOP\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\OOP\Login\obj\Debug\Login.csproj.Fody.CopyLocal.cache
+E:\OOP\Login\obj\Debug\Login.csproj.CopyComplete
+E:\OOP\Login\obj\Debug\Login.exe
+E:\OOP\Login\obj\Debug\Login.pdb
+E:\OOP\Login\obj\Debug\Login.SignUp.resources
+E:\OOP\Login\obj\Debug\Login.Signin.resources
+E:\OOP\Login\obj\Debug\Login.CheckForm.resources
+E:\OOP\Login\obj\Debug\Login.AdminMenu.resources
+E:\OOP\Login\obj\Debug\Login.NewControl.resources
+E:\OOP\Login\obj\Debug\Login.ProductsControl1.resources
+E:\OOP\Login\bin\Debug\EZInput.xml
+E:\OOP\Login\obj\Debug\Login.Allusers.resources
+E:\OOP\Login\obj\Debug\Login.Purchasecontrol.resources
+E:\OOP\Login\obj\Debug\Login.UserMenu.resources
+E:\OOP\Login\obj\Debug\Login.CartControl.resources
+E:\OOP\Login\obj\Debug\Login.BillControl.resources
+E:\OOP\Login\obj\Debug\Login.Record.resources
+E:\OOP\Login\obj\Debug\Login.Customers.resources
+E:\OOP\Login\obj\Debug\Login.Start.resources
+E:\OOP\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\Login.exe.config
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\Login.exe
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\Login.pdb
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\Bunifu.UI.WinForms.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\EZInput.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\Microsoft.Win32.Registry.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\Newtonsoft.Json.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\RestSharp.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.Buffers.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.CodeDom.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.Data.Odbc.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.Data.OleDb.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.Data.SqlClient.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.Diagnostics.EventLog.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.Drawing.Common.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.IO.Packaging.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.IO.Ports.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.Memory.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.Numerics.Vectors.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.Security.AccessControl.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.Security.Permissions.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.Security.Principal.Windows.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.ServiceModel.Syndication.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\bin\Debug\System.Threading.AccessControl.xml
+D:\New folder (2)\Awais Winform Application CS-186\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\New folder (2)\Awais Winform Application CS-186\Login\obj\Debug\Login.AdminMenu.resources
+D:\New folder (2)\Awais Winform Application CS-186\Login\obj\Debug\Login.Allusers.resources
+D:\New folder (2)\Awais Winform Application CS-186\Login\obj\Debug\Login.BillControl.resources
+D:\New folder (2)\Awais Winform Application CS-186\Login\obj\Debug\Login.CheckForm.resources
+D:\New folder (2)\Awais Winform Application CS-186\Login\obj\Debug\Login.Customers.resources
+D:\New folder (2)\Awais Winform Application CS-186\Login\obj\Debug\Login.NewControl.resources
+D:\New folder (2)\Awais Winform Application CS-186\Login\obj\Debug\Login.ProductsControl1.resources
+D:\New folder (2)\Awais Winform Application CS-186\Login\obj\Debug\Login.Purchasecontrol.resources
+D:\New folder (2)\Awais Winform Application CS-186\Login\obj\Debug\Login.CartControl.resources
+D:\New folder (2)\Awais Winform Application CS-186\Login\obj\Debug\Login.Record.resources
+D:\New folder (2)\Awais Winform Application CS-186\Login\obj\Debug\Login.SignUp.resources
+D:\New folder (2)\Awais Winform Application CS-186\Login\obj\Debug\Login.Properties.Resources.resources
+D:\New folder (2)\Awais Winform Application CS-186\Login\obj\Debug\Login.Signin.resources
+D:\New folder (2)\Awais Winform Application CS-186\Login\obj\Debug\Login.Start.resources
+D:\New folder (2)\Awais Winform Application CS-186\Login\obj\Debug\Login.UserMenu.resources
+D:\New folder (2)\Awais Winform Application CS-186\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\New folder (2)\Awais Winform Application CS-186\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\New folder (2)\Awais Winform Application CS-186\Login\obj\Debug\Login.csproj.Fody.CopyLocal.cache
+D:\New folder (2)\Awais Winform Application CS-186\Login\obj\Debug\Login.csproj.CopyComplete
+D:\New folder (2)\Awais Winform Application CS-186\Login\obj\Debug\Login.exe
+D:\New folder (2)\Awais Winform Application CS-186\Login\obj\Debug\Login.pdb
